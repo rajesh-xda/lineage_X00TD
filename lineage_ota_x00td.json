@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1609476510,
-      "filename": "lineage-17.1-20210101-X00TD-user-signed.zip",
-      "id": "f1bd4672ccd3013a4f5ef55e39cc6d31",
+      "datetime": 1609669320,
+      "filename": "lineage-17.1-20210103-X00TD-user-signed.zip",
+      "id": "162a3e573b846b01d7ab07f045e0ae96",
       "romtype": "UNOFFICIAL",
-      "size": 693094124,
-      "url": "https://sourceforge.net/projects/lineage-x00td/files/lineage-17.1-20210101-X00TD-user-signed.zip/download",
+      "size": 693097831,
+      "url": "https://sourceforge.net/projects/lineage-x00td/files/lineage-17.1-20210103-X00TD-user-signed.zip/download",
       "version": "17.1"
     }
   ]
