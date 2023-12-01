@@ -8,6 +8,15 @@
       "size": 14627369,
       "url": "https://sourceforge.net/projects/lineage-x00td/files/lineage-20.0/incremental/lineage-20.0-X00TD-20231101-update-20231105.zip/download",
       "version": "20.0"
+    },
+      {
+      "datetime": 1701451862,
+      "filename": "lineage-20.0-20231201-X00TD-user-signed.zip",
+      "id": "8b8ce0934483d39d9081e699876c6849",
+      "romtype": "UNOFFICIAL",
+      "size": 842383553,
+      "url": "https://sourceforge.net/projects/lineage-x00td/files/lineage-20.0/lineage-20.0-20231201-X00TD-user-signed.zip/download",
+      "version": "20.0"
     }
   ]
 }
